@@ -10,4 +10,6 @@ end
 
 def reduce(array, starting_value = 0)
   new2 = []
+  i = 0
+  while i < array.length do
 end
